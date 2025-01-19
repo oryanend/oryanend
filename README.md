@@ -1,16 +1,13 @@
-## Hi there 👋
+<h3 align="center"> Hello World! 👨‍💻 </h3>
 
-<!--
-**oryanend/oryanend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> I'm Ryan, a techie person and backend developer.</p>
 
-Here are some ideas to get you started:
+<p  align="center">
+<a href="https://portifolio-ryan-7rhtx74os-ryanaols-projects.vercel.app/#">portifolio-ryan-7rhtx74os-ryanaols-projects.vercel.app/#</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center"><img src="https://github.com/oryanend/oryanend/blob/main/assets/tecnology.png" alt="skills"/></h3>
+
+![oryanend's Stats](https://github-readme-stats.vercel.app/api?username=oryanend&theme=vue&show_icons=true&hide_border=true&count_private=true)
+
+![oryanend's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oryanend&theme=vue&show_icons=true&hide_border=true&layout=compact)
