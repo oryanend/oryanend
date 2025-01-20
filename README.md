@@ -1,6 +1,6 @@
-<h3 align="center"> Hello World! 👨‍💻 </h3>
+<h3 align="center"> Olá, Mundo! 👨‍💻 </h3>
 
-<p align="center"> I'm Ryan, a techie person and backend developer.</p>
+<p align="center"> Eu sou Ryan, aficionado por tecnologia e desenvolvedor backend.</p>
 
 <!--
 <p  align="center">
