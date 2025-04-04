@@ -7,7 +7,7 @@
 <a href="https://portifolio-ryan-7rhtx74os-ryanaols-projects.vercel.app/#">portifolio-ryan-7rhtx74os-ryanaols-projects.vercel.app/#</a>
 </p>
 -->
-
+<p align="center"><a href="oryanend.github.io" target="_blank">oryanend.github.io</a></p>
 <h3 align="center"><img src="https://github.com/oryanend/oryanend/blob/main/assets/tecnologys.png" alt="skills"/></h3>
 
 ![oryanend's Stats](https://github-readme-stats.vercel.app/api?username=oryanend&theme=vue&show_icons=true&hide_border=true&count_private=true)
